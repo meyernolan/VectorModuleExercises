@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorMath", "VectorMath\VectorMath.csproj", "{63D1DB06-AB0B-4E26-BEC7-A97F3A62965A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorExercises", "VectorExercises\VectorExercises.csproj", "{33109CDE-5904-4A64-9FC4-BD5757A71ED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorExercises", "VectorExercises\VectorExercises.csproj", "{33109CDE-5904-4A64-9FC4-BD5757A71ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorMathTests", "VectorMathTests\VectorMathTests.csproj", "{48F39E1D-EFA1-4B98-BAF1-8769583BDCE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorMathTests", "VectorMathTests\VectorMathTests.csproj", "{48F39E1D-EFA1-4B98-BAF1-8769583BDCE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
